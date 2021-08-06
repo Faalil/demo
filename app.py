@@ -1,2 +1,2 @@
 print("Hi")
-print("after cloned.")
+print("after cloned")
